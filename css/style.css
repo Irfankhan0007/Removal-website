@@ -9806,6 +9806,12 @@ h6,
   color: #F4F5F8;
 }
 
+.portfolio-item img{
+  height: 450px;
+  border-radius: 5%;
+  object-fit: cover;
+}
+
 .portfolio-item .portfolio-btn {
   position: absolute;
   width: 0;
